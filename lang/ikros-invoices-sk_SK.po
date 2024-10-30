@@ -1,0 +1,406 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-09-25 14:45+0200\n"
+"PO-Revision-Date: 2018-09-25 14:47+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class.invelityIkrosInvoice.php:27
+#: svn-repo/trunk/classes/class.invelityIkrosInvoice.php:27
+msgid "Order id not valid. Order Id : "
+msgstr "Číslo objednávky nieje správne. Číslo objednávky :"
+
+#: classes/class.invelityIkrosInvoice.php:33
+#: svn-repo/trunk/classes/class.invelityIkrosInvoice.php:33
+msgid "Could not instantiate Woocommerce order. Order Id : "
+msgstr ""
+"Nebolo možné vytvoriť objekt woocommerce objednávky. Číslo objednávky :"
+
+#: classes/class.invelityIkrosInvoice.php:447
+#: svn-repo/trunk/classes/class.invelityIkrosInvoice.php:446
+msgid ""
+"Failed to convert array to json, please contact us at mike@invelity.com with "
+"content of this error : "
+msgstr ""
+
+#: classes/class.invelityIkrosInvoice.php:475
+#: svn-repo/trunk/classes/class.invelityIkrosInvoice.php:474
+msgid "Ikros response not valid. Ikros response : "
+msgstr "Odpoveď od Ikros nieje validná. Ikros odpoveď :"
+
+#: classes/class.invelityIkrosInvoice.php:494
+#: svn-repo/trunk/classes/class.invelityIkrosInvoice.php:493
+msgid "General error"
+msgstr "Neočakávaný problém"
+
+#: classes/class.invelityIkrosInvoice.php:498
+#: svn-repo/trunk/classes/class.invelityIkrosInvoice.php:497
+msgid "License expired"
+msgstr "Vypršaná licencia"
+
+#: classes/class.invelityIkrosInvoice.php:507
+#: svn-repo/trunk/classes/class.invelityIkrosInvoice.php:506
+msgid "Invalid request with error : "
+msgstr "Neplatná požiadavka s errorom :"
+
+#: classes/class.invelityIkrosInvoice.php:514
+#: svn-repo/trunk/classes/class.invelityIkrosInvoice.php:513
+msgid ""
+"Unable to connect with ikros system, please check your API number in plugin "
+"options"
+msgstr ""
+"Nieje možné sa spojiť s Ikros systémom, prosím skontrolujte číslo API v "
+"nastaveniach pluginu"
+
+#: classes/class.invelityIkrosInvoice.php:526
+#: svn-repo/trunk/classes/class.invelityIkrosInvoice.php:525
+msgid "Ikros problem : Can not parse data returned from Ikros"
+msgstr "iKros problém : Nebolo možné spracovať dáta vrátené od Ikros"
+
+#: classes/class.invelityIkrosInvoice.php:532
+#: svn-repo/trunk/classes/class.invelityIkrosInvoice.php:531
+msgid "Ikros problem : Unable to get invoice document URL"
+msgstr "iKros problém : Nebolo možné získať pdf faktúry"
+
+#: classes/class.invelityIkrosInvoice.php:539
+#: svn-repo/trunk/classes/class.invelityIkrosInvoice.php:538
+msgid "Ikros problem : Can not get invoice number from URL"
+msgstr "iKros problém : Nebolo možné získať pdf faktúry"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:32
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:32
+msgid "Download invoice PDF"
+msgstr "Stiahnuť PDF faktúry"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:81
+#: classes/class.invelityIkrosInvoicesAdmin.php:82
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:80
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:81
+msgid "Ikros invoices"
+msgstr "Ikros invoices"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:155
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:151
+msgid "Basic settings"
+msgstr "Základné nastavenia"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:162
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:158
+msgid "Sender settings"
+msgstr "Nastavenia odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:168
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:164
+msgid "Invoice settings"
+msgstr "Nastavenia fakturácie"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:175
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:171
+msgid "Ikros API Key"
+msgstr "Ikros API Kľúč"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:182
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:178
+msgid "Sender name"
+msgstr "Meno odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:189
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:185
+msgid "Sender registration id"
+msgstr "IČO odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:196
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:192
+msgid "Sender registration court"
+msgstr "Okresný súd odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:203
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:199
+msgid "Sender VAT id"
+msgstr "IČ DPH odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:210
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:206
+msgid "Sender tax id"
+msgstr "DIČ odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:217
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:213
+msgid "Sender street"
+msgstr "Ulica odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:224
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:220
+msgid "Sender postcode"
+msgstr "PSČ odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:231
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:227
+msgid "Sender town"
+msgstr "Mesto odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:238
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:234
+msgid "Sender Country"
+msgstr "Krajina odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:245
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:241
+msgid "Sender bank account"
+msgstr "Bankový účet odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:252
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:248
+msgid "Sender bank IBAN"
+msgstr "IBAN odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:259
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:255
+msgid "Sender bank SWIFT"
+msgstr "SWIFT kód odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:266
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:262
+msgid "Sender contact name"
+msgstr "Kontaktné meno odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:273
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:269
+msgid "Sender phone"
+msgstr "Tel. číslo odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:280
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:276
+msgid "Sender email"
+msgstr "Email odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:287
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:283
+msgid "Sender web"
+msgstr "Webová stránka odosielateľa"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:301
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:297
+msgid "Due date"
+msgstr "Dátum splatnosti"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:309
+msgid "Automatic generation"
+msgstr "Automatické generovanie"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:317
+msgid "Due action"
+msgstr "Status objednávky"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:324
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:304
+msgid "Opening text"
+msgstr "Otvárací text"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:331
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:311
+msgid "Closing text"
+msgstr "Ukončovací text"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:338
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:318
+msgid "Invoice numbering ype"
+msgstr "Formát číslovania faktúr"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:345
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:325
+msgid "Invoice numbering format"
+msgstr "Formát číslovania faktúr"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:355
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:335
+msgid "Next invoice number"
+msgstr "Číslo ďalšej faktúry"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:365
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:345
+msgid "Ikros invoice numbering list"
+msgstr "Formát číslovania faktúr"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:375
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:355
+msgid "Item description in the invoice"
+msgstr "Popis produktu na faktúre"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:382
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:362
+msgid "DPH"
+msgstr "DPH"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:512
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:484
+msgid "Enter your settings below:"
+msgstr "Zadajte svoje nastavenia :"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:524
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:496
+msgid ""
+"Your ikros API key from <a href=\"https://app.ikros.sk\" title=\"\" target="
+"\"_blank\">https://app.ikros.sk</a>"
+msgstr ""
+"Váš licenčný kľúč od <a href=\"https://app.ikros.sk\">https://app.ikros.sk</"
+"a>"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:666
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:637
+msgid "Leave empty to use default woocommerce taxation settings."
+msgstr "Ponechajte prázdne pre použitie woocommerce nastavení dane :"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:688
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:658
+msgid "Number of days to be added as due date"
+msgstr "Počet dní pre prípočítanie do dátumu splatnosti"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:727
+msgid "When should be invoice automatically generated"
+msgstr "Kedy by mala byť faktúra automaticky generovaná"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:739
+msgid "Generate invoice after status change"
+msgstr "Generovať faktúru po zmene stavu"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:794
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:709
+msgid "Ikros numbering (preferred)"
+msgstr "Formát číslovania faktúr (odporúčané)"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:798
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:713
+msgid "Custom plugin numbering"
+msgstr "Vlastné číslovanie"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:823
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:737
+msgid ""
+"Format of invoices numbering, first field is prefix (leave blank for no "
+"prefix), second field is format of the invoice number"
+msgstr ""
+"Formát číslovania faktúr, prvé pole označuje prefix (ponechať prázdne pre "
+"žiadny prefix), druhé pole označuje formát číslovania faktúr"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:835
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:748
+msgid "Variation parameters"
+msgstr "Parametre variácie"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:840
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:753
+msgid "Product description"
+msgstr "Popis produktu"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:845
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:758
+msgid "Empty"
+msgstr "Prázdne"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:847
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:760
+msgid "Item description displayed in the invoice"
+msgstr "Popis produktu na faktúre"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:861
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:773
+msgid ""
+"Number of next invoice to be generated (use only number, not format. If next "
+"invoice should be in format RRRRXXXX 2020025 type in just \"25\")"
+msgstr ""
+"Číslo ďaľšej faktúry (použite iba číslo bez fotmátu. Ak chcete aby číslo "
+"ďaľšej faktúry vo formáte RRRRXXXX bolo 20200025 vpíšte iba \"25\")"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:864
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:776
+msgid ""
+"If there is existing invoice with specified number in Ikros allready, it "
+"will be overwritten!"
+msgstr "Pokial sa v Ikros-e už nachádza faktúra s týmto číslom, bude preísaná!"
+
+#: classes/class.invelityIkrosInvoicesAdmin.php:892
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesAdmin.php:802
+msgid ""
+"Assign number list to each country, leave default value to use main "
+"invoicing list"
+msgstr ""
+"Priraďte rad pre každú krajinu, ponechajte prázdne pre používanie "
+"prednastaveného číselného radu"
+
+#: classes/class.invelityIkrosInvoicesProcess.php:107
+#: classes/class.invelityIkrosInvoicesProcess.php:108
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesProcess.php:60
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesProcess.php:61
+msgid "Export orders to Ikros"
+msgstr "Exportovať faktúry do Ikros-u"
+
+#: classes/class.invelityIkrosInvoicesProcess.php:193
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesProcess.php:146
+#, php-format
+msgid "Order no. %s Sucessfully generated"
+msgstr "Faktúra objednávky s č. %s úspešne vygenerovaná"
+
+#: classes/class.invelityIkrosInvoicesProcess.php:201
+#: svn-repo/trunk/classes/class.invelityIkrosInvoicesProcess.php:154
+#, php-format
+msgid "Order no. %s Was not generated. Error : %s"
+msgstr "Faktúra objednávky s č. %s nebola vygenerovaná s problémom : %s"
+
+#~ msgid "Check for updates"
+#~ msgstr "Skontrolovať aktualizácie"
+
+#~ msgid "Unknown update checker status \"%s\""
+#~ msgstr "Neplatný status kontroly aktualizácie \"%s\""
+
+#~ msgid "There is no changelog available."
+#~ msgstr "Nieje dostupný žiadny changelog : "
+
+#~ msgid "License key"
+#~ msgstr "Licenčný kľúč"
+
+#~ msgid "Type of license : Full license"
+#~ msgstr "Typ licencie : Plná licencia"
+
+#~ msgid "Type of license : Trial license"
+#~ msgstr "Typ licencie : Trial licencia"
+
+#~ msgid "Expiration date : "
+#~ msgstr "Dátum vypršania licencie :"
+
+#~ msgid "Type of license : No license"
+#~ msgstr "Typ licencie : Žiadna licencia"
+
+#~ msgid "Deactivate license"
+#~ msgstr "Deaktivovať licenciu"
+
+#~ msgid "Activate license"
+#~ msgstr "Aktivovať licenciu"
+
+#~ msgid "No license code"
+#~ msgstr "Žiadny licenčný kľúč"
+
+#~ msgid "Your license is valid"
+#~ msgstr "Vaša licencia je platná"
+
+#~ msgid "Your trial license is valid"
+#~ msgstr "Vaša tiral licencia je platná"
+
+#~ msgid "Your trial license has expired"
+#~ msgstr "Vaša trial licencia vypršala"
+
+#~ msgid "You have no license"
+#~ msgstr "Nemáte žiadnu licenciu"
+
+#~ msgid "Custom settings"
+#~ msgstr "Doplňujúce nastavenia"

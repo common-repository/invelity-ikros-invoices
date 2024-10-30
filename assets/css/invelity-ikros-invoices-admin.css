@@ -1,0 +1,40 @@
+.ikros_invoice_numbering_list-wrapper td {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.ikros_invoice_numbering_list-wrapper td > div {
+    padding-bottom: 5px;
+}
+
+.ikros_invoice_numbering_list-wrapper td > div > label {
+    display: block;
+}
+#invelity-ikros-invoices-invoice-download-meta-box .inside > a  {
+    display:block;
+}
+
+#invelity-ikros-invoices-invoice-download-meta-box .inside > a > span {
+    width: auto;
+    height: auto;
+    text-decoration: none;
+    font-size: 75px;
+    -webkit-transition: color 0.5s;
+    -moz-transition: color 0.5s;
+    -ms-transition: color 0.5s;
+    -o-transition: color 0.5s;
+    transition: color 0.5s;
+}
+
+#invelity-ikros-invoices-invoice-download-meta-box .inside > a > span:hover {
+    text-decoration: none;
+}
+
+.wrap.invelity-plugins-namespace form {
+    display:flex
+}
+.wrap.invelity-plugins-namespace form>div:nth-of-type(1) {
+    flex-grow: 10;
+}
+
